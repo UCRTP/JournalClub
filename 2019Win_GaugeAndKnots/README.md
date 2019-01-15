@@ -1,6 +1,6 @@
 # Guage Fields and Knots
 -------------------------
-.large{Winter 2019}
+.large[Winter 2019]
 
 Ideas:
 1)de Rham Cohomology
